@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382038334533",
+    "project_id": "wemotions-1e5b2",
+    "storage_bucket": "wemotions-1e5b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382038334533:android:1ba03865d80bffdca0172c",
+        "android_client_info": {
+          "package_name": "com.example.wemotions"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_s6RUM8UlZv-vgXVbHhH5cOHnTm8zw-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
